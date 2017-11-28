@@ -4,5 +4,3 @@ The objective of this problem was to use a probabilistic approach for the resolu
 We then applied all of the previous theory to :
 - Tube model in a square conductor
 - Cylindrical conductor
-
-![alt tag](http://url/to/poster MOPSI.png)
