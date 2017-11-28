@@ -4,3 +4,5 @@ The objective of this problem was to use a probabilistic approach for the resolu
 We then applied all of the previous theory to :
 - Tube model in a square conductor
 - Cylindrical conductor
+
+![alt tag](https://github.com/SharoneDayan/Probabilistic-resolution-of-non-linear-partial-differential-equation/blob/master/poster_MOPSI.png)
